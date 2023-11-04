@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdulsabitariff.web.app/](https://abdulsabitariff.web.app/)
 
-- 💬 Ask me about **react, node.js, fastapi, python, javascript**
+- 💬 Ask me about **react, node.js, fastapi, python, js**
 
 - 📫 How to reach me **official.sabitariff01@gmail.com**
 
